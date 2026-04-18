@@ -75,7 +75,3 @@ if (carCenter > (letterRect.left + (letterRect.width * 0.15))) {
 ## ⚖️ License
 
 MIT License. Feel free to use this as a reference for your own high-end interactive projects.
-
----
-
-**Developed with precision by the Antigravity AI team.**
